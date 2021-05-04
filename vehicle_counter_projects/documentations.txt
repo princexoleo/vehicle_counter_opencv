@@ -1,0 +1,6 @@
+1. mkvirtualenv opencv_vehicle_test # create virtual environment
+2. workon opencv_vehicle_test  # activate virtualenv
+# install requirnments
+3.pip install opencv-python
+4. pip install numpy
+5. pip install opencv-contrib-python
